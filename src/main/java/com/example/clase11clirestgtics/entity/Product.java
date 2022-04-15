@@ -20,3 +20,5 @@ public class Product {
     private Integer reorderLevel;
     private Boolean discontinued = false;
 }
+
+
